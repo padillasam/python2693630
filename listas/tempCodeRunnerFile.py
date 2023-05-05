@@ -1,1 +1,2 @@
-[1,2,3,[]]
+else:
+    #     print(f'no esta en la posicion {i}')
