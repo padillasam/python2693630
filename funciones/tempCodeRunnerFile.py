@@ -1,4 +1,5 @@
-def saludar(fn, ln='Rodriguez'):
-    return f'Hola {fn} hijo del sr {ln}'
-
-print(saludar('Pedro','Perez'))
+def retorno():
+    for i in range(5):
+        #print(10)
+        return 10
+print(retorno())
