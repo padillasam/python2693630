@@ -1,2 +1,3 @@
-lista=(1,2,3,4)
-lista.append(10)
+print(ob1.__dict__)
+print(ob2.__dict__)
+print(ob3.__dict__)
