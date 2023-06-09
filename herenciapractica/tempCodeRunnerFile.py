@@ -1,0 +1,1 @@
+print(ob1.getCursos())
